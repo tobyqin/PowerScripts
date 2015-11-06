@@ -1,0 +1,1 @@
+if(Test-Path C:\Scripts) {Set-Location C:\Scripts}
